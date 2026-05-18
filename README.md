@@ -5,9 +5,8 @@ This project focuses on clean UI design, smooth layout structure, and responsive
 
 ## 🚀 Live Demo
 
-* **Vercel Live:** [Premium Design Assignment 4 - Vercel](https://premium-design-assignment-4.vercel.app/?utm_source=chatgpt.com)
-* **GitHub Live:** [Premium Design Assignment 4 - GitHub Pages](https://sunilnaginbhai.github.io/premium-design-assignment-4/?utm_source=chatgpt.com)
-
+* **Vercel Live:** [Premium Design Assignment 4 - Vercel](https://premium-design-assignment-4.vercel.app/)
+* **GitHub Live:** [Premium Design Assignment 4 - GitHub Pages](https://sunilnaginbhai.github.io/premium-design-assignment-4/)
 ---
 
 ## 📌 Features
@@ -56,10 +55,8 @@ Open the project folder and run `index.html` in your browser.
 
 ## 🌐 Deployment
 
-This project is deployed using:
+This project is deployed using: versal 
 
-* [Vercel](https://vercel.com/?utm_source=chatgpt.com)
-* [GitHub Pages](https://pages.github.com/?utm_source=chatgpt.com)
 
 ---
 
@@ -67,7 +64,7 @@ This project is deployed using:
 
 Created by **Sunil Patel**
 
-* GitHub: [sunilnaginbhai GitHub Profile](https://github.com/sunilnaginbhai?utm_source=chatgpt.com)
+* GitHub: [sunilnaginbhai GitHub Profile](https://github.com/sunilnaginbhai)
 
 ---
 
